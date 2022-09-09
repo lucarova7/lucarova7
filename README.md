@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luis Carlos Rodriguez
-- 👀 I’m interested in data science and fullstack software development
-- 🌱 I’m currently learning python,java, sql and javascript...
+- 👀 I’m interested in Data Analytics and Web Development
+- 🌱 I’m currently learning Python, Java, SQL and JavaScript...
 - 💞️ I’m part of Protalento, Digital House Bootcamp and MisionTic 2022
 - 📫 How to reach me: lucarova@outlook.com
 
